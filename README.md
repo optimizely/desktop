@@ -1,4 +1,4 @@
-# desktop beta
-This repo is simply used to host the releases of the desktop app.
+# Optimizely Desktop Application
+This repo is simply used to host the releases of the desktop application.
 
-For the actual source code of the desktop app, see https://github.com/optimizely/optimizely-desktop
+The source code of the desktop application is in a private repository here: https://github.com/optimizely/optimizely-desktop
